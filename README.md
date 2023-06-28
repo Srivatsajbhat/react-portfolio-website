@@ -1,5 +1,7 @@
 Portfolio Website
 
+(How to run a program is given step by step in the middle.)
+
 
 This is a portfolio website built using React.js to showcase my projects, skills, and experience. The website is designed to provide an interactive and engaging experience for visitors, allowing them to learn more about me and my work.
 
