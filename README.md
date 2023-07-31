@@ -46,8 +46,9 @@ git clone https://github.com/Srivatsajbhat/react-portfolio-website.git
 cd portfolio-website
 
 4. Install the dependencies by running the following command:
+```   
 npm install
-
+```
 5. Once the installation is complete, start the development server:
 npm start
 
