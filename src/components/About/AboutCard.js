@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Srivatsa J Bhat </span>
             from <span className="purple"> Karnataka, India.</span>
-            <br /> I am a 2nd year student pursuing B.E in CSE at MITE.
+            <br /> I am a student pursuing B.E in CSE at MITE.
             <br />
             
             <br />
